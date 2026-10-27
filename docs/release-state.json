@@ -1,0 +1,12 @@
+{
+  "Schema": 1,
+  "Product": "Windows-Virtual-USB",
+  "DriverVersion": "0.1.0.0",
+  "DemoSeconds": 3600,
+  "SigningPending": false,
+  "MicrosoftSigned": true,
+  "SignatureAndSubmissionMatchVerified": true,
+  "SubmissionId": "1152921505702244731",
+  "SignedInstallerLiveValidationPending": true,
+  "ReleaseUrl": "https://github.com/StrikeFound/Windows-Virtual-USB/releases/tag/v0.1.0.0"
+}

@@ -1,0 +1,13 @@
+/bin/
+/obj/
+/build/
+/.vs/
+*.user
+*.suo
+*.pfx
+*.key
+*.cer
+*.pdb
+
+/InstallerUI/Package/*.sys
+/InstallerUI/Package/*.cat
