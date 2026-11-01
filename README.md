@@ -4,6 +4,17 @@ Create and control virtual USB keyboard, mouse and gamepad devices on
 Windows 10/11 x64. Define raw descriptors, endpoints and reports with a
 two-file C++17 SDK: `VirtualUsb/VirtualUsb.h` and `VirtualUsb.cpp`.
 
+<!-- full-version-contact:start -->
+> [!IMPORTANT]
+> **Get the full version without demo restrictions**
+>
+> **Discord username: `titancsa`**
+>
+> Open Discord, choose **Friends > Add Friend**, enter **`titancsa`**, then send a direct message. Ask for the **full version without the demo time limit**, and mention **Windows Virtual USB**.
+>
+> Tell me whether you need personal use, business integration or OEM redistribution, and ask for pricing and license / activation instructions.
+<!-- full-version-contact:end -->
+
 **Demo 0.1.0.0 — Microsoft-signed kernel driver.** One hour per Windows kernel boot. Use the matching driver, SDK and installers from this edition.
 
 [Download demo ZIP](https://github.com/StrikeFound/Windows-Virtual-USB/releases/download/v0.1.0.0/Windows-Virtual-USB-0.1.0.0-Demo.zip) · [UI installer](https://github.com/StrikeFound/Windows-Virtual-USB/releases/download/v0.1.0.0/WindowsVirtualUsbSetup.exe) · [Console installer](https://github.com/StrikeFound/Windows-Virtual-USB/releases/download/v0.1.0.0/WindowsVirtualUsbSetupConsole.exe) · [SDK + source](https://github.com/StrikeFound/Windows-Virtual-USB/releases/download/v0.1.0.0/Windows-Virtual-USB-0.1.0.0-SDK.zip)
